@@ -1,8 +1,12 @@
 # Plasbit Examination
 
+### Note : The project was built by node-v18.20.2
+
 This is a starter app for a Plasbit Examination with authentication. This is for a SPA (Single Page Application) workflow that uses the [Vite](https://vite.dev) Build tool. This authentication workflow is based off of my project course.
 
 <img src="./frontend/public/screen.png" />
+<img src="./frontend/public/screen1.png" />
+<img src="./frontend/public/screen2.png" />
 
 It includes the following:
 
@@ -59,4 +63,12 @@ npm run server
 # Create frontend prod build
 cd frontend
 npm run build
+```
+
+## Test
+
+```
+# Currently, the project is signed up by email. Fix this by signing up using a wallet.
+# Work on the git branch of your mail id, rebase your commits to one commit and then create PM(pull-request).
+# Candidates should be finished within 5 hours.
 ```
